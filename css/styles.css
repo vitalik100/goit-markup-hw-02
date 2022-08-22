@@ -18,17 +18,19 @@ img {
   letter-spacing: 2%;
   color: #212121;
 }
+.menu a {
+  color: #212121;
+}
 .menu a:hover,
 .menu a:focus {
   color: #2196f3;
 }
-.contact {
+.contact a {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 14px;
   line-height: 1.86;
   letter-spacing: 2%;
-
   color: #212121;
 }
 .contact a:hover,
@@ -63,9 +65,66 @@ img {
   background-color: #2f303a;
   color: #ffffff;
 }
+.hero h3 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.86;
+  letter-spacing: 3%;
+
+  color: #212121;
+}
+.hero p {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.86;
+  letter-spacing: 3%;
+
+  color: #212121;
+}
+.pic h2 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.86;
+  letter-spacing: 3%;
+
+  color: #212121;
+}
+.tim p {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.86;
+  letter-spacing: 3%;
+
+  color: #212121;
+}
+.tim h2 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.86;
+  letter-spacing: 3%;
+
+  color: #212121;
+}
 .tim {
   background-color: #f5f4fa;
 }
+.main-footer {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.86;
+  letter-spacing: 2%;
+  color: #212121;
+}
+.main-footer a {
+  color: #f5d3d3;
+}
+
 .footer {
   background-color: #2f303a;
 }
