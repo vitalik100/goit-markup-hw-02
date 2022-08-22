@@ -1,7 +1,71 @@
 .link {
   text-decoration: none;
 }
-
+.list {
+  list-style: none;
+}
 img {
   display: block;
+}
+.button {
+  cursor: pointer;
+}
+.menu {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.86;
+  letter-spacing: 2%;
+  color: #212121;
+}
+.menu a:hover,
+.menu a:focus {
+  color: #2196f3;
+}
+.contact {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.86;
+  letter-spacing: 2%;
+
+  color: #212121;
+}
+.contact a:hover,
+.menu a:focus {
+  color: #2196f3;
+}
+.open-btn {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.86;
+  letter-spacing: 2%;
+  cursor: pointer;
+
+  color: #ffffff;
+}
+.open-btn :hover,
+.open-btn :focus {
+  background-color: #2196f3;
+}
+.border {
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 1.86;
+  letter-spacing: 6%;
+
+  color: #ffffff;
+}
+
+.border {
+  background-color: #2f303a;
+  color: #ffffff;
+}
+.tim {
+  background-color: #f5f4fa;
+}
+.footer {
+  background-color: #2f303a;
 }
