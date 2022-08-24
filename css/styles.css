@@ -14,20 +14,22 @@ img {
   font-family: "Roboto", sans-serif;
 }
 .logo {
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 14px;
   line-height: 1.86;
-  letter-spacing: 0.02;
+  letter-spacing: 0.03em;
   color: #2196f3;
 }
 .logo-header {
   color: #212121;
 }
 .menu {
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 14px;
   line-height: 1.86;
-  letter-spacing: 0.02;
+  letter-spacing: 0.02em;
   color: #212121;
 }
 .menu a {
@@ -38,10 +40,11 @@ img {
   color: #2196f3;
 }
 .contact a {
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 14px;
   line-height: 1.86;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   color: #757575;
 }
 .contact a:hover,
@@ -50,13 +53,15 @@ img {
 }
 .open-btn {
   font-family: "Roboto", sans-serif;
+  font-style: normal;
   font-weight: 500;
-  font-size: 14px;
-  line-height: 1.86;
-  letter-spacing: 2%;
+  font-size: 16px;
+  line-height: 26px;
+  text-align: center;
   cursor: pointer;
+  letter-spacing: 0.03em;
 
-  color: #ffffff;
+  color: #212121;
 }
 .open-btn :hover,
 .open-btn :focus {
@@ -66,10 +71,11 @@ img {
   background-color: #188ce8;
 }
 .border {
+  font-family: "Roboto", sans-serif;
   font-weight: 900;
   font-size: 44px;
   line-height: 1.86;
-  letter-spacing: 6%;
+  letter-spacing: 0.06em;
 
   color: #ffffff;
 }
@@ -78,49 +84,55 @@ img {
   background-color: #2f303a;
 }
 .hero h3 {
+  font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 14px;
   line-height: 1.86;
-  letter-spacing: 0.02;
+  letter-spacing: 0.03em;
 
   color: #212121;
 }
 .hero p {
+  font-family: "Roboto", sans-serif;
   font-size: 14px;
   line-height: 1.86;
-  letter-spacing: 0.02;
+  letter-spacing: 0.03em;
 
-  color: #212121;
+  color: #757575;
 }
 .pic h2 {
+  font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.86;
-  letter-spacing: 0.02;
+  letter-spacing: 0.03em;
 
   color: #212121;
 }
 .tim p {
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.86;
-  letter-spacing: 0.02;
+  letter-spacing: 0.03em;
 
   color: #757575;
 }
 .tim h3 {
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.86;
-  letter-spacing: 0.02;
+  letter-spacing: 0.03em;
 
   color: #212121;
 }
 .tim h2 {
+  font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.86;
-  letter-spacing: 0.02;
+  letter-spacing: 0.03em;
 
   color: #212121;
 }
@@ -129,11 +141,12 @@ img {
 }
 
 .main-footer {
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 14px;
   line-height: 1.86;
-  letter-spacing: 0.02;
-  color: #212121;
+  letter-spacing: 0.03em;
+  color: #ffffff;
 }
 .main-footer a {
   color: #ffffff;
@@ -143,12 +156,11 @@ img {
   background-color: #2f303a;
 }
 .btn-main {
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 14px;
   line-height: 1.86;
-  letter-spacing: 0.02;
-
-  color: #ffffff;
+  letter-spacing: 0.03em;
 }
 .btn-main {
   cursor: pointer;
@@ -163,16 +175,19 @@ img {
   background-color: #f5f5f5;
 }
 .caption {
+  font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 1.86;
-  letter-spacing: 0.02;
+  letter-spacing: 0.06em;
   color: #212121;
 }
 .heading {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
   font-size: 16px;
   line-height: 1.86;
-  letter-spacing: 0.02;
+  letter-spacing: 0.03em;
   color: #757575;
 }
 .adr {
