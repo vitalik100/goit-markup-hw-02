@@ -14,11 +14,12 @@ img {
   font-family: "Roboto", sans-serif;
 }
 .logo {
-  font-family: "Roboto", sans-serif;
-  font-weight: 500;
-  font-size: 14px;
-  line-height: 1.86;
+  font-family: "Raleway", Roboto;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 31px;
   letter-spacing: 0.03em;
+
   color: #2196f3;
 }
 .logo-header {
@@ -61,7 +62,7 @@ img {
   cursor: pointer;
   letter-spacing: 0.03em;
 
-  color: #212121;
+  color: #ffffff;
 }
 .open-btn :hover,
 .open-btn :focus {
