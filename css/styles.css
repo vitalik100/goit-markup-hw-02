@@ -15,7 +15,7 @@ img {
   font-weight: 500;
   font-size: 14px;
   line-height: 1.86;
-  letter-spacing: 2%;
+  letter-spacing: 0.02;
   color: #2196f3;
 }
 .menu {
@@ -23,7 +23,7 @@ img {
   font-weight: 500;
   font-size: 14px;
   line-height: 1.86;
-  letter-spacing: 2%;
+  letter-spacing: 0.02;
   color: #212121;
 }
 .menu a {
@@ -39,7 +39,7 @@ img {
   font-size: 14px;
   line-height: 1.86;
   letter-spacing: 2%;
-  color: #212121;
+  color: #757575;
 }
 .contact a:hover,
 .menu a:focus {
@@ -78,7 +78,7 @@ img {
   font-weight: 700;
   font-size: 14px;
   line-height: 1.86;
-  letter-spacing: 3%;
+  letter-spacing: 0.02;
 
   color: #212121;
 }
@@ -87,7 +87,7 @@ img {
   font-weight: 400;
   font-size: 14px;
   line-height: 1.86;
-  letter-spacing: 3%;
+  letter-spacing: 0.02;
 
   color: #212121;
 }
@@ -96,7 +96,7 @@ img {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.86;
-  letter-spacing: 3%;
+  letter-spacing: 0.02;
 
   color: #212121;
 }
@@ -105,7 +105,7 @@ img {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.86;
-  letter-spacing: 3%;
+  letter-spacing: 0.02;
 
   color: #212121;
 }
@@ -114,7 +114,7 @@ img {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.86;
-  letter-spacing: 3%;
+  letter-spacing: 0.02;
 
   color: #212121;
 }
@@ -126,7 +126,7 @@ img {
   font-weight: 500;
   font-size: 14px;
   line-height: 1.86;
-  letter-spacing: 2%;
+  letter-spacing: 0.02;
   color: #212121;
 }
 .main-footer a {
@@ -141,7 +141,7 @@ img {
   font-weight: 500;
   font-size: 14px;
   line-height: 1.86;
-  letter-spacing: 2%;
+  letter-spacing: 0.02;
 
   color: #ffffff;
 }
@@ -167,7 +167,7 @@ img {
   font-weight: 700;
   font-size: 18px;
   line-height: 1.86;
-  letter-spacing: 6%;
+  letter-spacing: 0.02;
   color: #212121;
 }
 .heading {
@@ -175,6 +175,6 @@ img {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.86;
-  letter-spacing: 3%;
+  letter-spacing: 0.02;
   color: #757575;
 }
