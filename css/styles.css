@@ -33,11 +33,12 @@ img {
 }
 .menu {
   font-family: "Roboto", sans-serif;
+  font-style: normal;
   font-weight: 500;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 1.86;
   letter-spacing: 0.02em;
-  color: var(--dark);
+  color: #212121;
 }
 .menu a {
   color: var(--dark);
@@ -60,6 +61,7 @@ img {
 }
 .open-btn {
   font-family: "Roboto", sans-serif;
+
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -68,14 +70,15 @@ img {
   cursor: pointer;
   letter-spacing: 0.03em;
 
+  color: var(--dark);
+}
+.open-btn:hover,
+.open-btn:focus {
+  background-color: var(--blue);
   color: #ffffff;
 }
-.open-btn :hover,
-.open-btn :focus {
-  color: #188ce8;
-}
 .open-btn {
-  background-color: #188ce8;
+  background-color: #f5f4fa;
 }
 .border h1 {
   font-family: "Roboto", sans-serif;
