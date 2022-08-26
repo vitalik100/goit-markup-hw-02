@@ -1,3 +1,9 @@
+:root {
+  --blue: #2196f3;
+  --dark: #212121;
+  --gray: #757575;
+}
+
 .link {
   text-decoration: none;
 }
@@ -20,10 +26,10 @@ img {
   line-height: 31px;
   letter-spacing: 0.03em;
 
-  color: #2196f3;
+  color: var(--blue);
 }
 .logo-header {
-  color: #212121;
+  color: var(--dark);
 }
 .menu {
   font-family: "Roboto", sans-serif;
@@ -31,14 +37,14 @@ img {
   font-size: 14px;
   line-height: 1.86;
   letter-spacing: 0.02em;
-  color: #212121;
+  color: var(--dark);
 }
 .menu a {
-  color: #212121;
+  color: var(--dark);
 }
 .menu a:hover,
 .menu a:focus {
-  color: #2196f3;
+  color: var(--blue);
 }
 .contact a {
   font-family: "Roboto", sans-serif;
@@ -46,11 +52,11 @@ img {
   font-size: 14px;
   line-height: 1.86;
   letter-spacing: 0.02em;
-  color: #757575;
+  color: var(--gray);
 }
 .contact a:hover,
 .menu a:focus {
-  color: #2196f3;
+  color: var(--blue);
 }
 .open-btn {
   font-family: "Roboto", sans-serif;
@@ -91,7 +97,7 @@ img {
   line-height: 1.86;
   letter-spacing: 0.03em;
 
-  color: #212121;
+  color: var(--dark);
 }
 .hero p {
   font-family: "Roboto", sans-serif;
@@ -99,7 +105,7 @@ img {
   line-height: 1.86;
   letter-spacing: 0.03em;
 
-  color: #757575;
+  color: var(--gray);
 }
 .pic h2 {
   font-family: "Roboto", sans-serif;
@@ -108,7 +114,7 @@ img {
   line-height: 1.86;
   letter-spacing: 0.03em;
 
-  color: #212121;
+  color: var(--dark);
 }
 .tim p {
   font-family: "Roboto", sans-serif;
@@ -117,7 +123,7 @@ img {
   line-height: 1.86;
   letter-spacing: 0.03em;
 
-  color: #757575;
+  color: var(--gray);
 }
 .tim h3 {
   font-family: "Roboto", sans-serif;
@@ -126,7 +132,7 @@ img {
   line-height: 1.86;
   letter-spacing: 0.03em;
 
-  color: #212121;
+  color: var(--dark);
 }
 .tim h2 {
   font-family: "Roboto", sans-serif;
@@ -135,7 +141,7 @@ img {
   line-height: 1.86;
   letter-spacing: 0.03em;
 
-  color: #212121;
+  color: var(--dark);
 }
 .tim {
   background-color: #f5f4fa;
@@ -175,7 +181,7 @@ img {
   font-size: 18px;
   line-height: 1.86;
   letter-spacing: 0.06em;
-  color: #212121;
+  color: var(--dark);
 }
 .heading {
   font-family: "Roboto", sans-serif;
@@ -183,7 +189,7 @@ img {
   font-size: 16px;
   line-height: 1.86;
   letter-spacing: 0.03em;
-  color: #757575;
+  color: var(--gray);
 }
 .adr {
   font-style: normal;
