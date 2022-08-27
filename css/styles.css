@@ -80,6 +80,25 @@ img {
 .open-btn {
   background-color: #f5f4fa;
 }
+.btn {
+  font-family: "Roboto", sans-serif;
+
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 30px;
+  text-align: center;
+  cursor: pointer;
+  letter-spacing: 0.06em;
+  background-color: var(--blue);
+  color: #ffffff;
+}
+.btn:hover,
+.btn:focus {
+  background-color: #188ce1;
+  color: #ffffff;
+}
+
 .border h1 {
   font-family: "Roboto", sans-serif;
   font-weight: 900;
